@@ -9,7 +9,7 @@ DevOps engineer
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [On Build. . .](http://yrimah.me)
 *   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma)
-*   🧠  I'm learning Docker, GITLAB CI/CD, ANSIBLE, TERRAFORM . . .
+*   🧠  I'm learning DOCKER, GITLAB CI/CD, ANSIBLE, TERRAFORM . . .
 *   ⚡  Devy easy ;)
 
 <a href="https://www.github.com/yrimah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yrimah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
