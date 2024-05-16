@@ -1,14 +1,12 @@
-[![yrimah's 42 stats](https://badge.mediaplus.ma/binary/yrimah)](https://github.com/oakoudad/badge42)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yassine Rimah
 =====================================================================================================================================
 
-DevOps engineer
+DevOps engineer Intern @CloudLink
 ---------------
 
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [On Build. . .](http://yrimah.me)
-*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma)
+*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma) or [yassine.rimah@cloudlink.us](mailto:yassine.rimah@cloudlink.us)
 *   🧠  I'm learning PYTHON, DOCKER, GITLAB CI/CD, ANSIBLE, TERRAFORM, AWS . . .
 *   ⚡  Devy easy ;)
 
