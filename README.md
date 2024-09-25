@@ -6,7 +6,7 @@ DevOps engineer Intern @CloudLink
 
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [On Build. . .](http://yrimah.me)
-*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma) or [yassine.rimah@cloudlink.us](mailto:yassine.rimah@cloudlink.us)
+*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma)
 *   🧠  I'm learning PYTHON, DOCKER, GITLAB CI/CD, ANSIBLE, TERRAFORM, AWS . . .
 *   ⚡  Devy easy ;)
 
