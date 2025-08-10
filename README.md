@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Yassine Rimah
 =====================================================================================================================================
 
-DevOps/Cloud Engineer
+CloudOps - Infrastructure Dev Engineer @Oracle NetSuite
 ---------------
 
 *   🌍  I'm based in Morocco
-*   🖥️  See my portfolio at [On Build. . .](http://yrimah.me)
-*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma)
-*   🧠  I'm learning PYTHON, DOCKER, GITLAB CI/CD, ANSIBLE, TERRAFORM, AWS . . .
-*   ⚡  Devy easy ;)
+*   🖥️  I'm working at Oracle R@D Morocco
+*   ✉️  You can contact me at [yrimah@student.1337.ma](mailto:yrimah@student.1337.ma) 0r [yassine.rimah@oracle.com](mailto:yassine.rimah@oracle.com)
+*   🧠  1337 Future Is Loading --> Oracle Create the future with us
+*   ⚡  You\re the ANSWER ;)
 
 <a href="https://www.github.com/yrimah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/yrimah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
